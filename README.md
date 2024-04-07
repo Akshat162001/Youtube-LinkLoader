@@ -9,23 +9,15 @@
     <em>YouTube to MP3 Downloader. Developed with React(Vite)</em>
     <br />
     <br />
-    <a href="https://yt-mp3-down.netlify.app">View Demo</a>
-    ·
-    <a href="https://github.com/blueycode/youtube-mp3-download/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/blueycode/youtube-mp3-download/issues">Request Feature</a>
+   
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+ 
 
+ 
 
-This repository makes part of Bluey Code's project. Its entire development process has been recorded for teaching purposes and can be accessed on <a href="https://www.youtube.com/@blueycode">Bluey Code's YouTube channel</a>.
-
-### Assets
-
-* <a href="https://whimsical.com/youtube-to-mp3-downloader-bluey-code-YN3VsTBj1Qbd2eyN9tN3FJ">Mind map</a> that was shown in the video (contains all third-party assets)
+ 
 
 ### Built With
 

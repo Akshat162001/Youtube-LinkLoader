@@ -18,8 +18,6 @@
 
 * React
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 

@@ -11,7 +11,6 @@
 </div>
 
 ### Built With
-
 * React
 
 <!-- GETTING STARTED -->
